@@ -46,4 +46,4 @@ npm test
 ## Questions
 
 If you have any quetions about the repo, open an issue or contact ttanner44 directaly at timtanner@tanner-companies.com.
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![image of ttanner44](https://avatars1.githubusercontent.com/u/59519025?s=460&u=7a25d98af8dde14902e2b7e3a3d840fc979b8783&v=4)
