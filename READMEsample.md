@@ -2,7 +2,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-Blue.svg)](https://github.com/ttanner44/CodeQuiz)
 
 ## Description
-Code Quize is a coding assessment game that renders a combination of multiple-choice questions and interactive challenges. It is timed use multiple-choice questions. The faster you answer, the higher your score.  But be careful, wrong answers will reduce time by 10 seconds. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It is built with a clean and polished user interface and is responsive, adapting to multiple screen sizes.
+Code Quiz is a coding assessment game that renders a combination of multiple-choice questions and interactive challenges. It is timed use multiple-choice questions. The faster you answer, the higher your score.  But be careful, wrong answers will reduce time by 10 seconds. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It is built with a clean and polished user interface and is responsive, adapting to multiple screen sizes.
 
 https://ttanner44.github.io/CodeQuiz/
 
