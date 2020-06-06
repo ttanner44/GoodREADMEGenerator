@@ -1,5 +1,5 @@
-# Personal Page
-[![GitHub license](https://img.shields.io/badge/license-MIT-Blue.svg)](https://github.com/ttanner44/personal-page)
+# Code Quiz
+[![GitHub license](https://img.shields.io/badge/license-MIT-Blue.svg)](https://github.com/ttanner44/code-quiz)
 
 ## Description
 Code Quize is a coding assessment that renders a combination of multiple-choice questions and interactive challenges. It is a timed code quiz with multiple-choice questions. This app runs in the browser and feature dynamically updated HTML and CSS powered by JavaScript code. It features a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
