@@ -51,7 +51,7 @@ THEN I can save my initials and score
 This project is licensed under the MIT license.
 
 ## Contributing
-Tim Tanner
+All contributions are welcome.
 
 ## Tests
 To run tests, run the following command:
@@ -61,4 +61,4 @@ npm test
 
 ## Questions
 
-If you have any quetions about the repo, open an issue or contact [ttanner] directaly at timtanner@tanner-companies.com.
+If you have any quetions about the repo, open an issue or contact [ttanner44] directaly at timtanner@tanner-companies.com.
