@@ -8,8 +8,8 @@ https://ttanner44.github.io/CodeQuiz/
 
 ## Table of Contents
 * [Installation](#installation)
-* [User Story](#User Story)
-* [Acceptance Criteria](#Acceptance Criteria)
+* [User Story](#User-Story)
+* [Acceptance Criteria](#Acceptance-Criteria)
 * [Usage](#Usage)
 * [License](#License)
 * [Contributing](#Contributing)
