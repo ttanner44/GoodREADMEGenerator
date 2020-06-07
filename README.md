@@ -1,11 +1,11 @@
 
-  # CodeQuiz
-  [![GitHub license](https://img.shields.io/badge/license-MIT-Blue.svg)](CodeQuiz)
+  # GoodREADMEGenerator
+  [![GitHub license](https://img.shields.io/badge/license-MIT-Blue.svg)](GoodREADMEGenerator)
   
   ## Description
-  Code Quiz is a coding assessment game that renders a combination of multiple-choice questions and interactive challenges. It is timed use multiple-choice questions. The faster you answer, the higher your score.  But be careful, wrong answers will reduce time by 10 seconds. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It is built with a clean and polished user interface and is responsive, adapting to multiple screen sizes.
+  When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. This App is a command-line application that will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
   
-  https://ttanner44.github.io/CodeQuiz/
+  https://ttanner44.github.io/goodreadme/
   
   ## Table of Contents
   * [Usage](#Usage)
