@@ -5,7 +5,7 @@
   ## Description
   When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. This App is a command-line application that will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
   
-  https://ttanner44.github.io/goodreadme/
+  https://ttanner44.github.io/GoodREADMEGenerator/
   
   ## Table of Contents
   * [Usage](#Usage)
@@ -18,17 +18,17 @@
   * [Questions](#Questions)
   
   ## Usage
-  The user begins by clicking the Start Quiz button.  From there a 60 second clock begins to decrement.  5 questions are rendered.  The score is determined based upon the number of seconds remaining on the clock after all five questions are completed.  Each incorrect response decrements an extra 10 seconds.  A user can save their score with their initials.  High scores can be viewed by clicking the link on the top left at any time.
+  The user begins by initiating the code through through the command line using "node index.js.  From there the user will answer a series of questions pertaining to their GitHub account and the project.  Answeres will be formated into a 
   
   ## User Story
-  AS A coding bootcamp student; I WANT to take a timed quiz on JavaScript fundamentals that stores high scores; SO THAT I can gauge my progress compared to my peers.
+  AS A developer; I WANT a README generator; SO THAT I can easily put together a good README for a new project
   
   ## Acceptance Criteria
-  GIVEN I am taking a code quiz; WHEN I click the start button, THEN a timer starts and I am presented with a question; WHEN I answer a question, THEN I am presented with another question; WHEN I answer a question incorrectly, THEN time is subtracted from the clock; WHEN all questions are answered or the timer reaches 0, THEN the game is over; WHEN the game is over, THEN I can save my initials and score.
+  GIVEN I am generating a new README file; WHEN Iniitatie the process, THEN a series of command prompts asks me information regarding my GitHub account and my project; WHEN I answer the question, THEN the application will access GitHub via an API and regurn a badge, an image of the user and and email address; WHEN I complete the proces, THEN a readme is generated automaticall that includes a title, a description, a table of contents, a set of installation instructions, usage instructions, licensing information, contribution information, testing instructions and how to contact the user for questions.
   
   ## Installation
   To install necessary dependencies, run the following command:
-  npm i 
+  npm i inquirer fs axios util
   
   ## License
   This project is licensed under the  MIT license.
