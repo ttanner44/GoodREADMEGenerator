@@ -73,7 +73,7 @@ function promptUser() {
 
 function generateMD(answers) {
   return `
-  # ${answers.github}
+  # ${answers.repo}
   [![GitHub license](https://img.shields.io/badge/license-MIT-Blue.svg)](${answers.repo})
   
   ## Description
@@ -133,7 +133,7 @@ promptUser()
         } else {
           answers.email = "timtanner@tanner-companies.com";
         };
-        console.log(answers);
+        // console.log(answers);
         const data = generateMD(answers);
         writeFileAsync("readme.md", data);
         console.log("Successfully wrote to readme.md");
@@ -143,35 +143,3 @@ promptUser()
   .catch(function(err) {
     console.log(err);
   });
-
-
-// async function init() {
-//   console.log("hi")
-//   try {
-//     const answers = await promptUser();
-
-//     const queryUrl = `https://api.github.com/users/${answers.github}`;
-
-//     axios
-//       .get(queryUrl)
-//       .then(function(res) {
-//         answers.image = res.data.avatar_url;
-//         if (res.data.email !== null) {
-//           answers.email = res.data.email;
-//         } else {
-//           answers.email = "timtanner@tanner-companies.com";
-//         };
-//       });
-
-//     const data = generateMD(answers);
-
-//     await writeFileAsync("readme.md", data);
-
-//     console.log("Successfully wrote to readme.md");
-    
-//   } catch(err) {
-//     console.log(err);
-//   }
-// }
-
-// init();
